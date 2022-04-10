@@ -1,0 +1,56 @@
+[
+    {
+        "id": "abcd",
+        "name": "BRUCE L. CHRISTENSEN",
+        "profession": "President, Public Broadcasting Service",
+        "comment": "The ethical basis for human relations in this book defines a way of life, not just a methodology for succeeding at business. That it works is apparent",
+        "imageURL": "https://i.ibb.co/sqpkKqb/bruce-christensen.jpg",
+        "imageName": "BRUCE L. CHRISTENSEN",
+        "rating": 4.5
+    },
+    {
+        "id": "efgh",
+        "name": "BRIAN TRACY",
+        "profession": "Author of Psychology of Achievement",
+        "comment": "Stephen Covey is an American Socrates, opening your mind to the 'permanent things'- values, family, relationships, communicating",
+        "imageURL": "https://i.ibb.co/7CH7Vbc/brian-tracy.jpg",
+        "imageName": "BRIAN TRACY",
+        "rating": 5
+    },
+    {
+        "id": "ijkl",
+        "name": "RICHARD M. EYRE",
+        "profession": "Author of Life Balance and Teaching Children Values",
+        "comment": "I have learned so much from Stephen Covey over the years that every time I sit down to write, I'm worried about subconscious plagiarism! Seven Habits is not pop psychology or trendy self-help. It is solid wisdom and sound principles.",
+        "imageURL": "https://i.ibb.co/bsbPsnt/richard-eyre.jpg",
+        "imageName": "RICHARD M. EYRE",
+        "rating": 5
+    },
+    {
+        "id": "mnop",
+        "name": "SENATOR JAKE GARN",
+        "profession": "Author of Life Balance and Teaching Children Values",
+        "comment": "we would do well to make the reading and use of this book a requirement for anyone at any level of public service. It would be far more effective than any legislation regarding ethical conduct.",
+        "imageURL": "https://i.ibb.co/mTZgZCc/jake-garn.jpg",
+        "imageName": "SENATOR JAKE GARN",
+        "rating": 5
+    },
+    {
+        "id": "qrst",
+        "name": "DR. DENIS WAITLEY",
+        "profession": "Author of The Psychology of Winning",
+        "comment": "One of the greatest habits you can develop is to learn and internalize the wisdom of Stephen Covey. He lives what he says and this book can help you live, permanently, in the 'Winner/'s Circle.'",
+        "imageURL": "https://i.ibb.co/YXbMJYR/denis-waitley.jpg",
+        "imageName": "DR. DENIS WAITLEY",
+        "rating": 5
+    },
+    {
+        "id": "uvwx",
+        "name": "CHARLES GARFIELD",
+        "profession": "Author of Peak Performers",
+        "comment": "A wonderful contribution. Dr. Covey has synthesized the habits of our highest achievers and presented them in a powerful, easy to use program. We now have a blueprint for opening the American mind.",
+        "imageURL": "https://i.ibb.co/Zdjx0w6/charles-garfield.jpg",
+        "imageName": "CHARLES GARFIELD",
+        "rating": 5
+    }
+]
