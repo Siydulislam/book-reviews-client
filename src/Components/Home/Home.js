@@ -1,12 +1,17 @@
 import React from 'react';
-import HomePage from '../HomePage/HomePage';
+import './Home.css';
+import coverPhoto from '../../Assets/Images/the-seven-habits-of-highly-effective-people-1.jpg';
 
 const Home = () => {
     return (
-        <div>
-            <h1>I am Home!</h1>
-            <HomePage />
-        </div>
+        <>
+            <div className="section-container">
+                <div>
+                    <h1>Reviews of the book "The Seven Habits of Highly Effective People"</h1>
+                </div>
+                <img src={coverPhoto} alt="" />
+            </div>
+        </>
     );
 };
 
