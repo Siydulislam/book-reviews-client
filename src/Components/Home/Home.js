@@ -18,7 +18,7 @@ const Home = () => {
                 <img src={coverPhoto} alt="" />
             </div>
             <div>
-                <h3 className="reviews-title">Reviews</h3>
+                <h3 className="reviews-title">Customer Reviews</h3>
                 <div className="reviews-container">
                     {
                         first3Review.map(review => <Review

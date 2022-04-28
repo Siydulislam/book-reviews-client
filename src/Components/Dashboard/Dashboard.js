@@ -5,7 +5,6 @@ import './Dashboard.css';
 
 const Dashboard = () => {
     const [chartsData] = useChartsData();
-    console.log(chartsData)
     return (
         <div className="dashboard-container">
             <div>

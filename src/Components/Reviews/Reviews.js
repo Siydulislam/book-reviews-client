@@ -7,14 +7,17 @@ const Reviews = () => {
     const [reviews] = useReviews();
 
     return (
-        <div className="reviews-container">
-            {
-                reviews.map(review => <Review
-                    key={review.id}
-                    review={review}
-                ></Review>)
-            }
-        </div>
+        <>
+            <h3 className="reviews-title">What our customer says!</h3>
+            <div className="reviews-container">
+                {
+                    reviews.map(review => <Review
+                        key={review.id}
+                        review={review}
+                    ></Review>)
+                }
+            </div>
+        </>
     );
 };
 
