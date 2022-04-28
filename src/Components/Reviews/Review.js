@@ -11,7 +11,7 @@ const Review = (props) => {
                 <div className="profile-container">
                     <h6>{name}</h6>
                     <small>{profession}</small><br />
-                    <small>Rating: {rating}</small>
+                    <small>Rating: {rating}/5</small>
                 </div>
             </div>
             <p className="comment">"{comment}"</p>
