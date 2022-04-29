@@ -13,7 +13,8 @@ const Home = () => {
         <>
             <div className="section-container">
                 <div>
-                    <h1>Reviews of the book "The Seven Habits of Highly Effective People"</h1>
+                    <h2>The Seven Habits of Highly Effective People</h2>
+                    <p>First published in 1989, is a business and self-help book written by Stephen R. Covey. Covey presents an approach to being effective in attaining goals by aligning oneself to what he calls "true north" principles based on a character ethic that he presents as universal and timeless.</p>
                 </div>
                 <img src={coverPhoto} alt="" />
             </div>
