@@ -1,6 +1,6 @@
 # [Book Reviews Website](https://sparkly-torte-77813b.netlify.app/)
 
-[click here](https://classroom.github.com/a/8blYLhL7) to see the Book Reviews Website.
+[click here](https://sparkly-torte-77813b.netlify.app/) to see the Book Reviews Website.
 
 ## Description of this site
 
